@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5c7adc2-9734-4daa-9d97-8f3c7cc9acbd" name="Default Changelist" comment="Initial Deployment">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/telegram-doodle-wallpapers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternIntensitySlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SliderSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wallpaper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Asset1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-18.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-19.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-2-none.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-20.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-21.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-22.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-23.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-24.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-25.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-26.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-27.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-28.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-29.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-30.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-31.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern-9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/thumbnails/Pattern1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/thumbnails/Pattern1Thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/thumbnails/Pattern2Thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tileData.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lpk1MqexZvinKJShSFjGRknMIA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\telegram-pattern-wallpapers\src" />
+      <recent name="F:\Projects\telegram-pattern-wallpapers\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c7adc2-9734-4daa-9d97-8f3c7cc9acbd" name="Default Changelist" comment="" />
+      <created>1608301203740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608301203740</updated>
+      <workItem from="1608301206159" duration="18965000" />
+      <workItem from="1608380262906" duration="8479000" />
+      <workItem from="1608815947412" duration="878000" />
+      <workItem from="1608910174963" duration="14965000" />
+      <workItem from="1608977163201" duration="29905000" />
+      <workItem from="1609061164534" duration="27299000" />
+      <workItem from="1609163980086" duration="2396000" />
+      <workItem from="1609174374229" duration="674000" />
+      <workItem from="1609175145305" duration="158000" />
+      <workItem from="1609175344397" duration="1156000" />
+      <workItem from="1609176506807" duration="116000" />
+      <workItem from="1609176691091" duration="1022000" />
+      <workItem from="1609177726950" duration="90000" />
+      <workItem from="1609177819213" duration="1560000" />
+      <workItem from="1609180805573" duration="1069000" />
+      <workItem from="1609344050422" duration="155000" />
+      <workItem from="1609344402355" duration="1546000" />
+      <workItem from="1609506213182" duration="1012000" />
+      <workItem from="1610215369077" duration="469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
